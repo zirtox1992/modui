@@ -205,7 +205,7 @@
     QuestLogFrame.Material = QuestLogFrame:CreateTexture(nil, 'OVERLAY', nil, 7)
     QuestLogFrame.Material:SetTexture[[Interface\AddOns\modui\dark\quest\QuestBG.tga]]
     QuestLogFrame.Material:SetWidth(510)
-    QuestLogFrame.Material:SetHeight(398)
+    QuestLogFrame.Material:SetHeight(580)
     QuestLogFrame.Material:SetPoint('TOPLEFT', QuestLogDetailScrollFrame)
     QuestLogFrame.Material:SetVertexColor(.7, .7, .7)
 
